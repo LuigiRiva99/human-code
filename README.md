@@ -1,0 +1,37 @@
+# COMPRARE QUALCOSA SU AMAZON
+
+- aprire amazon
+    - SE sei su desktop
+        - aprire browser
+        - andare su amazon.it
+    - ALTRIMENTI
+        - sbloccare il telefono
+        - SE ho APP 
+            - aprire APP
+            - SE ho un account
+                - Accedere
+            - ALTRIMENTI
+                - Creare account    
+        - ALTRIMENTI 
+            - Scaricare APP
+            - Aprire APP
+            - Creare profilo    
+- cercare da amazon
+    - Creazione lista regali
+        - Lampada particolare
+        - Penna stilografica
+        - Libro
+    - cliccare sulla barra "cerca"
+        - Cercare regalo della lista regali
+            - controllo requisiti
+                - SE prime AND nel budget
+                    - aggiungere al carrello e completare l'ordine
+                - ALTRIMENTI
+                    - cercare altro regalo
+- completare l'ordine
+    - SE dati già presenti
+        - confermare ordine
+    - ALTRIMENTI
+        - inserire dati utente
+    - inserire l'opzione "pacchetto regalo"
+    - cliccare su acquista
